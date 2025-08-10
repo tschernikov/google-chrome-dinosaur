@@ -1,3 +1,4 @@
-# Google Chrome Dinosaur Game (Java) 🚧 Work in Progress
+# Google Chrome Dinosaur Game (Java) 
+# 🚧 Work in Progress
 
-<img width="1509" height="571" alt="image" src="https://github.com/user-attachments/assets/5cbb6381-fbd8-4603-be5e-5846cf2368dd" />
+<img width="1510" height="573" alt="image" src="https://github.com/user-attachments/assets/31236ca9-bd57-4135-a48e-09b5b044f605" />
